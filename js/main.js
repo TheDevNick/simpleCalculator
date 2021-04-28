@@ -25,10 +25,6 @@ function sub2() {
   total = total - 2
   document.querySelector('#placeToPutResult').innerHTML = total
 }
-// function add5() {
-//   total += 5
-//   document.querySelector('#placeToPutResult').innerHTML = total
-// }
 
 function add5() {
   total += 5
